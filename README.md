@@ -2,9 +2,11 @@
 
 A 2D platformer game built independently in **Unity** with **C#**, as a hands-on project to apply object-oriented programming concepts (class design, encapsulation, and state management) outside of coursework.
 
-<!-- Add a screenshot or short GIF of gameplay here — this makes a huge difference:
-![Gameplay](docs/gameplay.gif)
--->
+## Gameplay
+
+![Gameplay 1](docs/gameplay%20images%201.png)
+
+![Gameplay 2](docs/gameplay%20images%202.png)
 
 ## Features
 
